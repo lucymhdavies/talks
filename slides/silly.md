@@ -41,11 +41,14 @@ github link
 
 ---
 
-# L&D Time
+# Remembering how to have fun
 
 ---
 
-# Additional Stuff
+# What is L&D Time?
 
 ---
+
+
+
 
