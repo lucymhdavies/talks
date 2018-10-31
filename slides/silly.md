@@ -71,7 +71,7 @@
 
 ## Fear of Judgement
 
-<img src="/images/gophers/WonderWomanGopher.png" style="border:0; background:transparent; box-shadow:none; bottom:0; left:0; height: 150px; position: fixed;">
+<img src="/images/silly/WonderWomanGopher.png" style="border:0; background:transparent; box-shadow:none; bottom:0; left:0; height: 150px; position: fixed;">
 <!-- .element: class="fragment" -->
 <img src="/images/trans-gopher.png" style="border:0; background:transparent; box-shadow:none; bottom:0; right:0; height: 150px; position: fixed;">
 <!-- .element: class="fragment" -->
@@ -123,6 +123,6 @@ Doing things because it's scary, rather than doing things in spite of it being s
 # Thanks!
 
 
-<img src="/images/gophers/gopher_unicorn.png" style="border:0; background:transparent; box-shadow:none; height: 400px;">
+<img src="/images/silly/gopher_unicorn.png" style="border:0; background:transparent; box-shadow:none; height: 400px;">
 
 <span style="font-size: 0.5em">Gopher &copy; CC BY NC SA 4.0 -  Ashley McNamara</span>
