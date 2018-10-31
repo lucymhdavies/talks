@@ -1,3 +1,6 @@
 [submodule "gophers"]
 	path = slides/images/gophers
 	url = https://github.com/ashleymcnamara/gophers.git
+[submodule "gophers-public"]
+	path = public/images/gophers
+	url = https://github.com/ashleymcnamara/gophers.git
