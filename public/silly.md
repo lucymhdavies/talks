@@ -24,7 +24,16 @@
 
 --
 
-<iframe src="https://emojis.test.lmhd.me/d/GoSheffield/" style="width:1024px; height: 650px; margin: 0; padding:0;">
+<!--
+	Oh hey, you're viewing the source code. Neat!
+
+	This was originally a live version of the grafana dashboard from https://github.com/lucymhdavies/emoji_exporter
+
+	I've since decommed the EC2 instance that was running on, so below is a snapshot from the day my talk was on (1st November 2018). You'll basically get the idea from that.
+
+	Enjoy!
+-->
+<iframe src="https://snapshot.raintank.io/dashboard/snapshot/3O4hAeSXMGreUaghW4WRHPvGT4kWf4rM" style="width:1024px; height: 650px; margin: 0; padding:0;">
 
 --
 
